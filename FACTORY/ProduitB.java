@@ -1,4 +1,6 @@
+package FACTORY;
 // Classe concrète ProduitB
+
 class ProduitB extends Produit {
     public ProduitB() {
     }

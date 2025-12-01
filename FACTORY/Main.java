@@ -1,4 +1,6 @@
+package FACTORY;
 // Classe principale pour tester le pattern
+
 class Main {
     public static void main(String[] args) {
         // Utilisation de la Factory pour créer des produits

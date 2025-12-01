@@ -1,4 +1,6 @@
+package FACTORY;
 // Classe Factory (Fabrique)
+
 class Factory {
     
     // Méthode factory pour créer des produits selon le type
